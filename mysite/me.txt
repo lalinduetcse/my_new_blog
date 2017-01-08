@@ -1,0 +1,1 @@
+git remote add origin https://github.com/lalinduetcse/my_new_blog
